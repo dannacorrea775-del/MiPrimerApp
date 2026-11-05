@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         btnMensaje.setOnClickListener {
             Toast.makeText(
                 this,
-                "¡Bienvenida a mi primera aplicación Android!",
+                "¡Bienvenida a mi segunda aplicación Android!",
                 Toast.LENGTH_LONG
             ).show()
         }
